@@ -12,7 +12,7 @@
             var deferred = $q.defer();
 
             $http.get('assets/json/colors.json').then(function(data){
-                deferred.resolve(data.data.data);            
+                deferred.resolve(data.data);            
             });
 
             self.getList = function() {

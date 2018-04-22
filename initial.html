@@ -2,15 +2,22 @@
   <div class="line text-center">        
     <h1 class="text-dark text-s-size-30 text-m-size-40 text-l-size-headline text-thin text-line-height-1">Copic Helper</h1>
     <p class="margin-bottom-0 text-size-16 text-dark">Below is the complete list of Copic Sketch colors and their respective code information.</p>
+    <br>
+    <label><b>Search by Name: </b><input ng-model="search.name"></label>
+    <br><br><label><b>Search by Copic Code: </b><input ng-model="search.copic_code"></label>
+    <br><br><label><b>Search by Family: </b><input ng-model="search.family"></label>
+    <br><br><label><b>Search by Code Color: </b><input ng-model="search.code_color"></label>
+    <br><br><label><b>Search by ID: </b><input ng-model="search.id"></label>
   </div>  
 </header>
-<div class="background-white full-width" data-ng-controller="CopicController as copicCtrl"> 
-  <div class="s-12 m-6 l-1" data-ng-repeat="i in copicCtrl.list">
+<div class="background-white full-width"> 
+  <div class="s-12 m-6 l-1" data-ng-repeat="i in copicCtrl.list | filter: search:strict">
     <a data-id='{{i.id}}' data-ng-style="{'background-color':i.code_color}" class="image-with-hover-overlay image-hover-zoom" href="/" title="Color Information">
       <div class="image-hover-overlay background-primary"> 
         <div class="image-hover-overlay-content text-center padding-2x">
           <p class="text-black text-size-14"><b>Name: </b>{{i.name}} 
             <br><b>Code: </b>{{i.copic_code}}
+            <br><b>Family: </b>{{i.family}}
             <br><b>Color: </b>{{i.code_color}}
             <br><b>ID: </b>{{i.id}}</p>
         </div> 
