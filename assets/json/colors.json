@@ -1,0 +1,2512 @@
+{
+	"data": [{
+			"code_color": "#fff0e2",
+			"id": 88830312462,
+			"copic_code": "YR0000",
+			"name": "Pale Chiffon"
+		},
+		{
+			"code_color": "#fee8d5",
+			"id": 88830279694,
+			"copic_code": "YR000",
+			"name": "Silk"
+		},
+		{
+			"code_color": "#f9d2ba",
+			"id": 88830214158,
+			"copic_code": "YR00",
+			"name": "Powder Pink"
+		},
+		{
+			"code_color": "#f9d6be",
+			"id": 88830345230,
+			"copic_code": "YR01",
+			"name": "Peach Puff"
+		},
+		{
+			"code_color": "#fad8c2",
+			"id": 78902394894,
+			"copic_code": "YR02",
+			"name": "Light Orange"
+		},
+		{
+			"code_color": "#f7bd76",
+			"id": 78902460430,
+			"copic_code": "YR04",
+			"name": "Chrome Orange"
+		},
+		{
+			"code_color": "#e56747",
+			"id": 78902493198,
+			"copic_code": "YR07",
+			"name": "Cadmium Orange"
+		},
+		{
+			"code_color": "#e04e35",
+			"id": 78902591502,
+			"copic_code": "YR09",
+			"name": "Chinese Orange"
+		},
+		{
+			"code_color": "#fddea9",
+			"id": 78902624270,
+			"copic_code": "YR12",
+			"name": "Loquat"
+		},
+		{
+			"code_color": "#f8c268",
+			"id": 78902689806,
+			"copic_code": "YR14",
+			"name": "Caramel"
+		},
+		{
+			"code_color": "#ee955e",
+			"id": 78902722574,
+			"copic_code": "YR15",
+			"name": "Pumpkin Yellow"
+		},
+		{
+			"code_color": "#f3b052",
+			"id": 78902788110,
+			"copic_code": "YR16",
+			"name": "Apricot"
+		},
+		{
+			"code_color": "#e46448",
+			"id": 78902820878,
+			"copic_code": "YR18",
+			"name": "Sanguine"
+		},
+		{
+			"code_color": "#fbddbe",
+			"id": 78902853646,
+			"copic_code": "YR20",
+			"name": "Yellowish Shade"
+		},
+		{
+			"code_color": "#f1d8b1",
+			"id": 78902919182,
+			"copic_code": "YR21",
+			"name": "Cream"
+		},
+		{
+			"code_color": "#e6ca91",
+			"id": 91700297742,
+			"copic_code": "YR23",
+			"name": "Yellow Ochre"
+		},
+		{
+			"code_color": "#eccb76",
+			"id": 78902984718,
+			"copic_code": "YR24",
+			"name": "Pale Sepia"
+		},
+		{
+			"code_color": "#d46637",
+			"id": 78903017486,
+			"copic_code": "YR27",
+			"name": "Tuscan Orange"
+		},
+		{
+			"code_color": "#fff0d8",
+			"id": 78903050254,
+			"copic_code": "YR30",
+			"name": "Macadamia Nut"
+		},
+		{
+			"code_color": "#fbdaaa",
+			"id": 78903083022,
+			"copic_code": "YR31",
+			"name": "Light Reddish Yellow"
+		},
+		{
+			"code_color": "#fad6bf",
+			"id": 78903115790,
+			"copic_code": "YR61",
+			"name": "Spring Orange"
+		},
+		{
+			"code_color": "#f1a56c",
+			"id": 78903148558,
+			"copic_code": "YR65",
+			"name": "Atoll"
+		},
+		{
+			"code_color": "#e46639",
+			"id": 78903181326,
+			"copic_code": "YR68",
+			"name": "Orange"
+		},
+		{
+			"code_color": "#f6c191",
+			"id": 78903246862,
+			"copic_code": "YR82",
+			"name": "Mellow Peach"
+		},
+		{
+			"code_color": "#fcf4b3",
+			"id": 88828608526,
+			"copic_code": "Y13",
+			"name": "Lemon Yellow"
+		},
+		{
+			"code_color": "#ffe483",
+			"id": 88828641294,
+			"copic_code": "Y15",
+			"name": "Cadmium Yellow"
+		},
+		{
+			"code_color": "#ffdf73",
+			"id": 88828706830,
+			"copic_code": "Y17",
+			"name": "Golden Yellow"
+		},
+		{
+			"code_color": "#ffea76",
+			"id": 88828772366,
+			"copic_code": "Y18",
+			"name": "Lightning Yellow"
+		},
+		{
+			"code_color": "#ffe469",
+			"id": 88828837902,
+			"copic_code": "Y19",
+			"name": "Napoli Yellow"
+		},
+		{
+			"code_color": "#feebc2",
+			"id": 88828870670,
+			"copic_code": "Y21",
+			"name": "Buttercup Yellow"
+		},
+		{
+			"code_color": "#fae0b7",
+			"id": 88828903438,
+			"copic_code": "Y23",
+			"name": "Yellowish Beige"
+		},
+		{
+			"code_color": "#edd77c",
+			"id": 88828936206,
+			"copic_code": "Y26",
+			"name": "Mustard"
+		},
+		{
+			"code_color": "#bea06f",
+			"id": 88828968974,
+			"copic_code": "Y28",
+			"name": "Lionet Gold"
+		},
+		{
+			"code_color": "#f5d9be",
+			"id": 88829034510,
+			"copic_code": "Y32",
+			"name": "Cashmere"
+		},
+		{
+			"code_color": "#fbd286",
+			"id": 88829067278,
+			"copic_code": "Y35",
+			"name": "Maize"
+		},
+		{
+			"code_color": "#facc81",
+			"id": 88829100046,
+			"copic_code": "Y38",
+			"name": "Honey"
+		},
+		{
+			"code_color": "#f3f5dc",
+			"id": 88829198350,
+			"copic_code": "YG0000",
+			"name": "Lily White"
+		},
+		{
+			"code_color": "#e3e2a3",
+			"id": 88829165582,
+			"copic_code": "YG00",
+			"name": "Mimosa Yellow"
+		},
+		{
+			"code_color": "#e6edc1",
+			"id": 88829231118,
+			"copic_code": "YG01",
+			"name": "Green Bice"
+		},
+		{
+			"code_color": "#dde6ad",
+			"id": 88829263886,
+			"copic_code": "YG03",
+			"name": "Yellow Green"
+		},
+		{
+			"code_color": "#d3e099",
+			"id": 88829329422,
+			"copic_code": "YG05",
+			"name": "Salad"
+		},
+		{
+			"code_color": "#c0d895",
+			"id": 88829362190,
+			"copic_code": "YG06",
+			"name": "Yellowish Green"
+		},
+		{
+			"code_color": "#9dc764",
+			"id": 88829460494,
+			"copic_code": "YG07",
+			"name": "Acid Green"
+		},
+		{
+			"code_color": "#76bc70",
+			"id": 88829493262,
+			"copic_code": "YG09",
+			"name": "Lettuce Green"
+		},
+		{
+			"code_color": "#e2edcc",
+			"id": 88829558798,
+			"copic_code": "YG11",
+			"name": "Mignonette"
+		},
+		{
+			"code_color": "#d0e0a2",
+			"id": 88829591566,
+			"copic_code": "YG13",
+			"name": "Chartreuse"
+		},
+		{
+			"code_color": "#69b665",
+			"id": 88829624334,
+			"copic_code": "YG17",
+			"name": "Grass Green"
+		},
+		{
+			"code_color": "#f8f4c0",
+			"id": 88829657102,
+			"copic_code": "YG21",
+			"name": "Anise"
+		},
+		{
+			"code_color": "#e4e79a",
+			"id": 88829689870,
+			"copic_code": "YG23",
+			"name": "New Leaf"
+		},
+		{
+			"code_color": "#cada87",
+			"id": 88829722638,
+			"copic_code": "YG25",
+			"name": "Celadon Green"
+		},
+		{
+			"code_color": "#d4e8cf",
+			"id": 88829755406,
+			"copic_code": "YG41",
+			"name": "Pale Cobalt Green"
+		},
+		{
+			"code_color": "#b0d6b2",
+			"id": 88829820942,
+			"copic_code": "YG45",
+			"name": "Cobalt Green"
+		},
+		{
+			"code_color": "#d4e6d4",
+			"id": 88829853710,
+			"copic_code": "YG61",
+			"name": "Pale Moss"
+		},
+		{
+			"code_color": "#9cc59f",
+			"id": 88829886478,
+			"copic_code": "YG63",
+			"name": "Pea Green"
+		},
+		{
+			"code_color": "#7ab689",
+			"id": 88829919246,
+			"copic_code": "YG67",
+			"name": "Moss"
+		},
+		{
+			"code_color": "#d6d1ac",
+			"id": 88829952014,
+			"copic_code": "YG91",
+			"name": "Putty"
+		},
+		{
+			"code_color": "#cccd9e",
+			"id": 88829984782,
+			"copic_code": "YG93",
+			"name": "Grayish Yellow"
+		},
+		{
+			"code_color": "#c5c06d",
+			"id": 88830017550,
+			"copic_code": "YG95",
+			"name": "Pale Olive"
+		},
+		{
+			"code_color": "#858434",
+			"id": 88830115854,
+			"copic_code": "YG97",
+			"name": "Spanish Olive"
+		},
+		{
+			"code_color": "#47602c",
+			"id": 88830181390,
+			"copic_code": "YG99",
+			"name": "Marine Green"
+		},
+		{
+			"code_color": "#e8e4eb",
+			"id": 78438662158,
+			"copic_code": "BV0000",
+			"name": "Pale Thistle"
+		},
+		{
+			"code_color": "#e3dce5",
+			"id": 78438596622,
+			"copic_code": "BV000",
+			"name": "Iridescent Mauve"
+		},
+		{
+			"code_color": "#ddd7e2",
+			"id": 76505219086,
+			"copic_code": "BV00",
+			"name": "Mauve Shadow"
+		},
+		{
+			"code_color": "#c0c4d6",
+			"id": 78438727694,
+			"copic_code": "BV01",
+			"name": "Viola"
+		},
+		{
+			"code_color": "#a6b1ca",
+			"id": 78438793230,
+			"copic_code": "BV02",
+			"name": "Prune"
+		},
+		{
+			"code_color": "#778fb6",
+			"id": 78438825998,
+			"copic_code": "BV04",
+			"name": "Blue Berry"
+		},
+		{
+			"code_color": "#9577a3",
+			"id": 76506202126,
+			"copic_code": "BV08",
+			"name": "Blue Violet"
+		},
+		{
+			"code_color": "#cfcddb",
+			"id": 76506333198,
+			"copic_code": "BV11",
+			"name": "Soft Violet"
+		},
+		{
+			"code_color": "#7d88b1",
+			"id": 76506464270,
+			"copic_code": "BV13",
+			"name": "Hydrangea Blue"
+		},
+		{
+			"code_color": "#697ca5",
+			"id": 76506595342,
+			"copic_code": "BV17",
+			"name": "Deep Reddish Blue"
+		},
+		{
+			"code_color": "#ccd7e4",
+			"id": 76506660878,
+			"copic_code": "BV20",
+			"name": "Dull Lavender"
+		},
+		{
+			"code_color": "#aebbce",
+			"id": 76506759182,
+			"copic_code": "BV23",
+			"name": "Grayish Lavender"
+		},
+		{
+			"code_color": "#7a7b95",
+			"id": 76506857486,
+			"copic_code": "BV25",
+			"name": "Grayish Violet"
+		},
+		{
+			"code_color": "#333e49",
+			"id": 76506988558,
+			"copic_code": "BV29",
+			"name": "Slate"
+		},
+		{
+			"code_color": "#d8dee8",
+			"id": 76507086862,
+			"copic_code": "BV31",
+			"name": "Pale Lavender"
+		},
+		{
+			"code_color": "#9ea7bd",
+			"id": 76507185166,
+			"copic_code": "BV34",
+			"name": "Bluebell"
+		},
+		{
+			"code_color": "#eeebf0",
+			"id": 78902132750,
+			"copic_code": "V0000",
+			"name": "Rose Quartz"
+		},
+		{
+			"code_color": "#e7e2e9",
+			"id": 78902099982,
+			"copic_code": "V000",
+			"name": "Pale Heath"
+		},
+		{
+			"code_color": "#dfbccd",
+			"id": 78902165518,
+			"copic_code": "V01",
+			"name": "Heath"
+		},
+		{
+			"code_color": "#dca4be",
+			"id": 78902198286,
+			"copic_code": "V04",
+			"name": "Lilac"
+		},
+		{
+			"code_color": "#d99fbb",
+			"id": 78902231054,
+			"copic_code": "V05",
+			"name": "Azalea"
+		},
+		{
+			"code_color": "#c48db0",
+			"id": 78902263822,
+			"copic_code": "V06",
+			"name": "Lavender"
+		},
+		{
+			"code_color": "#7c4e89",
+			"id": 78902296590,
+			"copic_code": "V09",
+			"name": "Violet"
+		},
+		{
+			"code_color": "#ead2dd",
+			"id": 78902329358,
+			"copic_code": "V12",
+			"name": "Pale Lilac"
+		},
+		{
+			"code_color": "#c9a0bc",
+			"id": 78902362126,
+			"copic_code": "V15",
+			"name": "Mallow"
+		},
+		{
+			"code_color": "#998bb2",
+			"id": 88826773518,
+			"copic_code": "V17",
+			"name": "Amethyst"
+		},
+		{
+			"code_color": "#dcdbe9",
+			"id": 88826839054,
+			"copic_code": "V20",
+			"name": "Wisteria"
+		},
+		{
+			"code_color": "#b2afce",
+			"id": 88826904590,
+			"copic_code": "V22",
+			"name": "Ash Lavender"
+		},
+		{
+			"code_color": "#847eac",
+			"id": 88826937358,
+			"copic_code": "V25",
+			"name": "Pale Blackberry"
+		},
+		{
+			"code_color": "#6a658c",
+			"id": 88826970126,
+			"copic_code": "V28",
+			"name": "Eggplant"
+		},
+		{
+			"code_color": "#e2c0c7",
+			"id": 88827101198,
+			"copic_code": "V91",
+			"name": "Pale Grape"
+		},
+		{
+			"code_color": "#debcce",
+			"id": 88827166734,
+			"copic_code": "V93",
+			"name": "Early Grape"
+		},
+		{
+			"code_color": "#ac7494",
+			"id": 88827265038,
+			"copic_code": "V95",
+			"name": "Light Grape"
+		},
+		{
+			"code_color": "#463c49",
+			"id": 88827363342,
+			"copic_code": "V99",
+			"name": "Aubergine"
+		},
+		{
+			"code_color": "#f1e7ed",
+			"id": 78447312910,
+			"copic_code": "RV0000",
+			"name": "Evening Primrose"
+		},
+		{
+			"code_color": "#f2dfe6",
+			"id": 78447181838,
+			"copic_code": "RV000",
+			"name": "Pale Purple"
+		},
+		{
+			"code_color": "#eed6e0",
+			"id": 78447017998,
+			"copic_code": "RV00",
+			"name": "Water Lily"
+		},
+		{
+			"code_color": "#f7d2dc",
+			"id": 78447607822,
+			"copic_code": "RV02",
+			"name": "Sugared Almond Pink"
+		},
+		{
+			"code_color": "#ec9cb2",
+			"id": 78447738894,
+			"copic_code": "RV04",
+			"name": "Shock Pink"
+		},
+		{
+			"code_color": "#e87fa1",
+			"id": 78448001038,
+			"copic_code": "RV06",
+			"name": "Cerise"
+		},
+		{
+			"code_color": "#d36b9a",
+			"id": 91556642830,
+			"copic_code": "RV09",
+			"name": "Fuchsia"
+		},
+		{
+			"code_color": "#fce9ed",
+			"id": 78448394254,
+			"copic_code": "RV10",
+			"name": "Pale Pink"
+		},
+		{
+			"code_color": "#f7d3d5",
+			"id": 78448525326,
+			"copic_code": "RV11",
+			"name": "Pink"
+		},
+		{
+			"code_color": "#f4c5ce",
+			"id": 78448754702,
+			"copic_code": "RV13",
+			"name": "Tender Pink"
+		},
+		{
+			"code_color": "#ea8ca8",
+			"id": 78448984078,
+			"copic_code": "RV14",
+			"name": "Begonia Pink"
+		},
+		{
+			"code_color": "#cf76a1",
+			"id": 78449213454,
+			"copic_code": "RV17",
+			"name": "Deep Magenta"
+		},
+		{
+			"code_color": "#c46295",
+			"id": 78449344526,
+			"copic_code": "RV19",
+			"name": "Red Violet"
+		},
+		{
+			"code_color": "#fce6e3",
+			"id": 78449573902,
+			"copic_code": "RV21",
+			"name": "Light Pink"
+		},
+		{
+			"code_color": "#f2b5bd",
+			"id": 78449704974,
+			"copic_code": "RV23",
+			"name": "Pure Pink"
+		},
+		{
+			"code_color": "#e98daf",
+			"id": 78449836046,
+			"copic_code": "RV25",
+			"name": "Dog Rose Flower"
+		},
+		{
+			"code_color": "#df4272",
+			"id": 78450032654,
+			"copic_code": "RV29",
+			"name": "Crimson"
+		},
+		{
+			"code_color": "#f7cfc7",
+			"id": 78450163726,
+			"copic_code": "RV32",
+			"name": "Shadow Pink"
+		},
+		{
+			"code_color": "#f0a8a6",
+			"id": 78450294798,
+			"copic_code": "RV34",
+			"name": "Dark Pink"
+		},
+		{
+			"code_color": "#f9c9de",
+			"id": 78450458638,
+			"copic_code": "RV52",
+			"name": "Cotton Candy"
+		},
+		{
+			"code_color": "#f2b5af",
+			"id": 78450393102,
+			"copic_code": "RV42",
+			"name": "Salmon Pink"
+		},
+		{
+			"code_color": "#e7a5ca",
+			"id": 78450524174,
+			"copic_code": "RV55",
+			"name": "Hollyhock"
+		},
+		{
+			"code_color": "#ce9caa",
+			"id": 78450622478,
+			"copic_code": "RV63",
+			"name": "Begonia"
+		},
+		{
+			"code_color": "#b86983",
+			"id": 78450720782,
+			"copic_code": "RV66",
+			"name": "Raspberry"
+		},
+		{
+			"code_color": "#7f5362",
+			"id": 78450819086,
+			"copic_code": "RV69",
+			"name": "Peony"
+		},
+		{
+			"code_color": "#e3d0d9",
+			"id": 78450884622,
+			"copic_code": "RV91",
+			"name": "Grayish Cherry"
+		},
+		{
+			"code_color": "#e0b0bf",
+			"id": 78450917390,
+			"copic_code": "RV93",
+			"name": "Smoky Purple"
+		},
+		{
+			"code_color": "#ad7c92",
+			"id": 78451048462,
+			"copic_code": "RV95",
+			"name": "Baby Blossoms"
+		},
+		{
+			"code_color": "#4f4149",
+			"id": 78451146766,
+			"copic_code": "RV99",
+			"name": "Argyle Purple"
+		},
+		{
+			"code_color": "#fff1eb",
+			"id": 78445117454,
+			"copic_code": "R0000",
+			"name": "Pink Beryl"
+		},
+		{
+			"code_color": "#fff2eb",
+			"id": 78445084686,
+			"copic_code": "R000",
+			"name": "Cherry White"
+		},
+		{
+			"code_color": "#ffefe7",
+			"id": 78445019150,
+			"copic_code": "R00",
+			"name": "Pinkish White"
+		},
+		{
+			"code_color": "#fbddd3",
+			"id": 78445150222,
+			"copic_code": "R01",
+			"name": "Pinkish Vanilla"
+		},
+		{
+			"code_color": "#f8cec0",
+			"id": 78445182990,
+			"copic_code": "R02",
+			"name": "Rose Salmon"
+		},
+		{
+			"code_color": "#eb8a79",
+			"id": 78445215758,
+			"copic_code": "R05",
+			"name": "Salmon Red"
+		},
+		{
+			"code_color": "#e36056",
+			"id": 78445248526,
+			"copic_code": "R08",
+			"name": "Vermillion"
+		},
+		{
+			"code_color": "#fcddce",
+			"id": 78445281294,
+			"copic_code": "R11",
+			"name": "Pale Cherry Pink"
+		},
+		{
+			"code_color": "#f8cebc",
+			"id": 78445314062,
+			"copic_code": "R12",
+			"name": "Light Tea Rose"
+		},
+		{
+			"code_color": "#ec948c",
+			"id": 78445346830,
+			"copic_code": "R14",
+			"name": "Light Rouge"
+		},
+		{
+			"code_color": "#e87c6b",
+			"id": 91556577294,
+			"copic_code": "R17",
+			"name": "Lipstick Orange"
+		},
+		{
+			"code_color": "#f9d3c9",
+			"id": 78445379598,
+			"copic_code": "R20",
+			"name": "Blush"
+		},
+		{
+			"code_color": "#f3bbb1",
+			"id": 78445412366,
+			"copic_code": "R21",
+			"name": "Sardonyx"
+		},
+		{
+			"code_color": "#f1b1ab",
+			"id": 78445445134,
+			"copic_code": "R22",
+			"name": "Light Prawn"
+		},
+		{
+			"code_color": "#e56e73",
+			"id": 78445477902,
+			"copic_code": "R24",
+			"name": "Prawn"
+		},
+		{
+			"code_color": "#e04b5c",
+			"id": 78445543438,
+			"copic_code": "R27",
+			"name": "Cadmium Red"
+		},
+		{
+			"code_color": "#da1c48",
+			"id": 78445576206,
+			"copic_code": "R29",
+			"name": "Lipstick Red"
+		},
+		{
+			"code_color": "#fce0d8",
+			"id": 78445608974,
+			"copic_code": "R30",
+			"name": "Pale Yellowish Pink"
+		},
+		{
+			"code_color": "#f3bbb3",
+			"id": 78445674510,
+			"copic_code": "R32",
+			"name": "Peach"
+		},
+		{
+			"code_color": "#e56a7b",
+			"id": 78445772814,
+			"copic_code": "R35",
+			"name": "Coral"
+		},
+		{
+			"code_color": "#da676d",
+			"id": 91556610062,
+			"copic_code": "R37",
+			"name": "Carmine"
+		},
+		{
+			"code_color": "#bb466d",
+			"id": 78445936654,
+			"copic_code": "R39",
+			"name": "Garnet"
+		},
+		{
+			"code_color": "#e17c85",
+			"id": 78446034958,
+			"copic_code": "R43",
+			"name": "Bougainvillaea"
+		},
+		{
+			"code_color": "#cf4860",
+			"id": 78446297102,
+			"copic_code": "R46",
+			"name": "Strong Red"
+		},
+		{
+			"code_color": "#d07b95",
+			"id": 78446428174,
+			"copic_code": "R56",
+			"name": "Currant"
+		},
+		{
+			"code_color": "#a84c65",
+			"id": 78446559246,
+			"copic_code": "R59",
+			"name": "Cardinal"
+		},
+		{
+			"code_color": "#edc5cc",
+			"id": 78901641230,
+			"copic_code": "R81",
+			"name": "Rose Pink"
+		},
+		{
+			"code_color": "#e694aa",
+			"id": 78446755854,
+			"copic_code": "R83",
+			"name": "Rose Mist"
+		},
+		{
+			"code_color": "#c76385",
+			"id": 78446788622,
+			"copic_code": "R85",
+			"name": "Rose Red"
+		},
+		{
+			"code_color": "#6b2839",
+			"id": 78446821390,
+			"copic_code": "R89",
+			"name": "Dark Red"
+		},
+		{
+			"code_color": "#fff0e2",
+			"id": 88830312462,
+			"copic_code": "YR0000",
+			"name": "Pale Chiffon"
+		},
+		{
+			"code_color": "#fee8d5",
+			"id": 88830279694,
+			"copic_code": "YR000",
+			"name": "Silk"
+		},
+		{
+			"code_color": "#f9d2ba",
+			"id": 88830214158,
+			"copic_code": "YR00",
+			"name": "Powder Pink"
+		},
+		{
+			"code_color": "#f9d6be",
+			"id": 88830345230,
+			"copic_code": "YR01",
+			"name": "Peach Puff"
+		},
+		{
+			"code_color": "#fad8c2",
+			"id": 78902394894,
+			"copic_code": "YR02",
+			"name": "Light Orange"
+		},
+		{
+			"code_color": "#f7bd76",
+			"id": 78902460430,
+			"copic_code": "YR04",
+			"name": "Chrome Orange"
+		},
+		{
+			"code_color": "#e56747",
+			"id": 78902493198,
+			"copic_code": "YR07",
+			"name": "Cadmium Orange"
+		},
+		{
+			"code_color": "#e04e35",
+			"id": 78902591502,
+			"copic_code": "YR09",
+			"name": "Chinese Orange"
+		},
+		{
+			"code_color": "#fddea9",
+			"id": 78902624270,
+			"copic_code": "YR12",
+			"name": "Loquat"
+		},
+		{
+			"code_color": "#f8c268",
+			"id": 78902689806,
+			"copic_code": "YR14",
+			"name": "Caramel"
+		},
+		{
+			"code_color": "#ee955e",
+			"id": 78902722574,
+			"copic_code": "YR15",
+			"name": "Pumpkin Yellow"
+		},
+		{
+			"code_color": "#f3b052",
+			"id": 78902788110,
+			"copic_code": "YR16",
+			"name": "Apricot"
+		},
+		{
+			"code_color": "#e46448",
+			"id": 78902820878,
+			"copic_code": "YR18",
+			"name": "Sanguine"
+		},
+		{
+			"code_color": "#fbddbe",
+			"id": 78902853646,
+			"copic_code": "YR20",
+			"name": "Yellowish Shade"
+		},
+		{
+			"code_color": "#f1d8b1",
+			"id": 78902919182,
+			"copic_code": "YR21",
+			"name": "Cream"
+		},
+		{
+			"code_color": "#e6ca91",
+			"id": 91700297742,
+			"copic_code": "YR23",
+			"name": "Yellow Ochre"
+		},
+		{
+			"code_color": "#eccb76",
+			"id": 78902984718,
+			"copic_code": "YR24",
+			"name": "Pale Sepia"
+		},
+		{
+			"code_color": "#d46637",
+			"id": 78903017486,
+			"copic_code": "YR27",
+			"name": "Tuscan Orange"
+		},
+		{
+			"code_color": "#fff0d8",
+			"id": 78903050254,
+			"copic_code": "YR30",
+			"name": "Macadamia Nut"
+		},
+		{
+			"code_color": "#fbdaaa",
+			"id": 78903083022,
+			"copic_code": "YR31",
+			"name": "Light Reddish Yellow"
+		},
+		{
+			"code_color": "#fad6bf",
+			"id": 78903115790,
+			"copic_code": "YR61",
+			"name": "Spring Orange"
+		},
+		{
+			"code_color": "#f1a56c",
+			"id": 78903148558,
+			"copic_code": "YR65",
+			"name": "Atoll"
+		},
+		{
+			"code_color": "#e46639",
+			"id": 78903181326,
+			"copic_code": "YR68",
+			"name": "Orange"
+		},
+		{
+			"code_color": "#f6c191",
+			"id": 78903246862,
+			"copic_code": "YR82",
+			"name": "Mellow Peach"
+		},
+		{
+			"code_color": "#fffdf3",
+			"id": 88828346382,
+			"copic_code": "Y0000",
+			"name": "Yellow Fluorite"
+		},
+		{
+			"code_color": "#fffce8",
+			"id": 88828280846,
+			"copic_code": "Y000",
+			"name": "Pale Lemon"
+		},
+		{
+			"code_color": "#fffbdf",
+			"id": 88828248078,
+			"copic_code": "Y00",
+			"name": "Barium Yellow"
+		},
+		{
+			"code_color": "#f7f0a2",
+			"id": 88828411918,
+			"copic_code": "Y02",
+			"name": "Canary Yellow"
+		},
+		{
+			"code_color": "#eae072",
+			"id": 88828444686,
+			"copic_code": "Y04",
+			"name": "Acacia"
+		},
+		{
+			"code_color": "#fff185",
+			"id": 91518205966,
+			"copic_code": "Y06",
+			"name": "Yellow"
+		},
+		{
+			"code_color": "#ffef55",
+			"id": 91518238734,
+			"copic_code": "Y08",
+			"name": "Acid Yellow"
+		},
+		{
+			"code_color": "#fffacf",
+			"id": 88828575758,
+			"copic_code": "Y11",
+			"name": "Pale Yellow"
+		},
+		{
+			"code_color": "#fcf4b3",
+			"id": 88828608526,
+			"copic_code": "Y13",
+			"name": "Lemon Yellow"
+		},
+		{
+			"code_color": "#ffe483",
+			"id": 88828641294,
+			"copic_code": "Y15",
+			"name": "Cadmium Yellow"
+		},
+		{
+			"code_color": "#ffdf73",
+			"id": 88828706830,
+			"copic_code": "Y17",
+			"name": "Golden Yellow"
+		},
+		{
+			"code_color": "#ffea76",
+			"id": 88828772366,
+			"copic_code": "Y18",
+			"name": "Lightning Yellow"
+		},
+		{
+			"code_color": "#ffe469",
+			"id": 88828837902,
+			"copic_code": "Y19",
+			"name": "Napoli Yellow"
+		},
+		{
+			"code_color": "#feebc2",
+			"id": 88828870670,
+			"copic_code": "Y21",
+			"name": "Buttercup Yellow"
+		},
+		{
+			"code_color": "#fae0b7",
+			"id": 88828903438,
+			"copic_code": "Y23",
+			"name": "Yellowish Beige"
+		},
+		{
+			"code_color": "#edd77c",
+			"id": 88828936206,
+			"copic_code": "Y26",
+			"name": "Mustard"
+		},
+		{
+			"code_color": "#bea06f",
+			"id": 88828968974,
+			"copic_code": "Y28",
+			"name": "Lionet Gold"
+		},
+		{
+			"code_color": "#f5d9be",
+			"id": 88829034510,
+			"copic_code": "Y32",
+			"name": "Cashmere"
+		},
+		{
+			"code_color": "#fbd286",
+			"id": 88829067278,
+			"copic_code": "Y35",
+			"name": "Maize"
+		},
+		{
+			"code_color": "#facc81",
+			"id": 88829100046,
+			"copic_code": "Y38",
+			"name": "Honey"
+		},
+		{
+			"code_color": "#f3f5dc",
+			"id": 88829198350,
+			"copic_code": "YG0000",
+			"name": "Lily White"
+		},
+		{
+			"code_color": "#e3e2a3",
+			"id": 88829165582,
+			"copic_code": "YG00",
+			"name": "Mimosa Yellow"
+		},
+		{
+			"code_color": "#e6edc1",
+			"id": 88829231118,
+			"copic_code": "YG01",
+			"name": "Green Bice"
+		},
+		{
+			"code_color": "#dde6ad",
+			"id": 88829263886,
+			"copic_code": "YG03",
+			"name": "Yellow Green"
+		},
+		{
+			"code_color": "#d3e099",
+			"id": 88829329422,
+			"copic_code": "YG05",
+			"name": "Salad"
+		},
+		{
+			"code_color": "#c0d895",
+			"id": 88829362190,
+			"copic_code": "YG06",
+			"name": "Yellowish Green"
+		},
+		{
+			"code_color": "#9dc764",
+			"id": 88829460494,
+			"copic_code": "YG07",
+			"name": "Acid Green"
+		},
+		{
+			"code_color": "#76bc70",
+			"id": 88829493262,
+			"copic_code": "YG09",
+			"name": "Lettuce Green"
+		},
+		{
+			"code_color": "#e2edcc",
+			"id": 88829558798,
+			"copic_code": "YG11",
+			"name": "Mignonette"
+		},
+		{
+			"code_color": "#d0e0a2",
+			"id": 88829591566,
+			"copic_code": "YG13",
+			"name": "Chartreuse"
+		},
+		{
+			"code_color": "#69b665",
+			"id": 88829624334,
+			"copic_code": "YG17",
+			"name": "Grass Green"
+		},
+		{
+			"code_color": "#f8f4c0",
+			"id": 88829657102,
+			"copic_code": "YG21",
+			"name": "Anise"
+		},
+		{
+			"code_color": "#e4e79a",
+			"id": 88829689870,
+			"copic_code": "YG23",
+			"name": "New Leaf"
+		},
+		{
+			"code_color": "#cada87",
+			"id": 88829722638,
+			"copic_code": "YG25",
+			"name": "Celadon Green"
+		},
+		{
+			"code_color": "#d4e8cf",
+			"id": 88829755406,
+			"copic_code": "YG41",
+			"name": "Pale Cobalt Green"
+		},
+		{
+			"code_color": "#b0d6b2",
+			"id": 88829820942,
+			"copic_code": "YG45",
+			"name": "Cobalt Green"
+		},
+		{
+			"code_color": "#d4e6d4",
+			"id": 88829853710,
+			"copic_code": "YG61",
+			"name": "Pale Moss"
+		},
+		{
+			"code_color": "#9cc59f",
+			"id": 88829886478,
+			"copic_code": "YG63",
+			"name": "Pea Green"
+		},
+		{
+			"code_color": "#7ab689",
+			"id": 88829919246,
+			"copic_code": "YG67",
+			"name": "Moss"
+		},
+		{
+			"code_color": "#d6d1ac",
+			"id": 88829952014,
+			"copic_code": "YG91",
+			"name": "Putty"
+		},
+		{
+			"code_color": "#cccd9e",
+			"id": 88829984782,
+			"copic_code": "YG93",
+			"name": "Grayish Yellow"
+		},
+		{
+			"code_color": "#c5c06d",
+			"id": 88830017550,
+			"copic_code": "YG95",
+			"name": "Pale Olive"
+		},
+		{
+			"code_color": "#858434",
+			"id": 88830115854,
+			"copic_code": "YG97",
+			"name": "Spanish Olive"
+		},
+		{
+			"code_color": "#47602c",
+			"id": 88830181390,
+			"copic_code": "YG99",
+			"name": "Marine Green"
+		},
+		{
+			"code_color": "#f1f8f1",
+			"id": 78442463246,
+			"copic_code": "G0000",
+			"name": "Crystal Opal"
+		},
+		{
+			"code_color": "#e9f3e9",
+			"id": 78442397710,
+			"copic_code": "G000",
+			"name": "Pale Green"
+		},
+		{
+			"code_color": "#e2f2ef",
+			"id": 78442364942,
+			"copic_code": "G00",
+			"name": "Jade Green"
+		},
+		{
+			"code_color": "#cce5ce",
+			"id": 78442528782,
+			"copic_code": "G02",
+			"name": "Spectrum Green"
+		},
+		{
+			"code_color": "#afd39c",
+			"id": 78442561550,
+			"copic_code": "G03",
+			"name": "Meadow Green"
+		},
+		{
+			"code_color": "#61b67c",
+			"id": 78442594318,
+			"copic_code": "G05",
+			"name": "Emerald Green"
+		},
+		{
+			"code_color": "#73bb7b",
+			"id": 78442790926,
+			"copic_code": "G07",
+			"name": "Nile Green"
+		},
+		{
+			"code_color": "#71ba70",
+			"id": 78442823694,
+			"copic_code": "G09",
+			"name": "Veronese Green"
+		},
+		{
+			"code_color": "#d0e4c1",
+			"id": 78442889230,
+			"copic_code": "G12",
+			"name": "Sea Green"
+		},
+		{
+			"code_color": "#8fc790",
+			"id": 78443020302,
+			"copic_code": "G14",
+			"name": "Apple Green"
+		},
+		{
+			"code_color": "#5ab892",
+			"id": 78443151374,
+			"copic_code": "G16",
+			"name": "Malachite"
+		},
+		{
+			"code_color": "#00a87c",
+			"id": 78443282446,
+			"copic_code": "G17",
+			"name": "Forest Green"
+		},
+		{
+			"code_color": "#2cae85",
+			"id": 78443380750,
+			"copic_code": "G19",
+			"name": "Bright Parrot Green"
+		},
+		{
+			"code_color": "#edf3d8",
+			"id": 78443511822,
+			"copic_code": "G20",
+			"name": "Wax White"
+		},
+		{
+			"code_color": "#c3e0c8",
+			"id": 78443610126,
+			"copic_code": "G21",
+			"name": "Lime Green"
+		},
+		{
+			"code_color": "#bfdbb0",
+			"id": 78443642894,
+			"copic_code": "G24",
+			"name": "Willow"
+		},
+		{
+			"code_color": "#008960",
+			"id": 78901608462,
+			"copic_code": "G28",
+			"name": "Ocean Green"
+		},
+		{
+			"code_color": "#237056",
+			"id": 78443839502,
+			"copic_code": "G29",
+			"name": "Pine Tree Green"
+		},
+		{
+			"code_color": "#e4efda",
+			"id": 78443872270,
+			"copic_code": "G40",
+			"name": "Dim Green"
+		},
+		{
+			"code_color": "#d7e7a7",
+			"id": 78443937806,
+			"copic_code": "G43",
+			"name": "Pistachio"
+		},
+		{
+			"code_color": "#579d73",
+			"id": 78443970574,
+			"copic_code": "G46",
+			"name": "Mistletoe"
+		},
+		{
+			"code_color": "#cad6b8",
+			"id": 78444068878,
+			"copic_code": "G82",
+			"name": "Spring Dim Green"
+		},
+		{
+			"code_color": "#99bda5",
+			"id": 78444134414,
+			"copic_code": "G85",
+			"name": "Verdigris"
+		},
+		{
+			"code_color": "#909f81",
+			"id": 78444199950,
+			"copic_code": "G94",
+			"name": "Grayish Olive"
+		},
+		{
+			"code_color": "#557342",
+			"id": 78444298254,
+			"copic_code": "G99",
+			"name": "Olive"
+		},
+		{
+			"code_color": "#eef6f0",
+			"id": 76068913166,
+			"copic_code": "BG0000",
+			"name": "Snow Green"
+		},
+		{
+			"code_color": "#e5f2ea",
+			"id": 76068847630,
+			"copic_code": "BG000",
+			"name": "Pale Aqua"
+		},
+		{
+			"code_color": "#c6e3ed",
+			"id": 76068945934,
+			"copic_code": "BG01",
+			"name": "Aqua Blue"
+		},
+		{
+			"code_color": "#c5e5e1",
+			"id": 78901542926,
+			"copic_code": "BG02",
+			"name": "New Blue"
+		},
+		{
+			"code_color": "#82ccd3",
+			"id": 76069077006,
+			"copic_code": "BG05",
+			"name": "Holiday Blue"
+		},
+		{
+			"code_color": "#24afbc",
+			"id": 76069109774,
+			"copic_code": "BG07",
+			"name": "Petroleum Blue"
+		},
+		{
+			"code_color": "#00a8b5",
+			"id": 76069175310,
+			"copic_code": "BG09",
+			"name": "Blue Green"
+		},
+		{
+			"code_color": "#dcefea",
+			"id": 76069240846,
+			"copic_code": "BG10",
+			"name": "Cool Shadow"
+		},
+		{
+			"code_color": "#cce9e9",
+			"id": 76069306382,
+			"copic_code": "BG11",
+			"name": "Moon White"
+		},
+		{
+			"code_color": "#c3e4e0",
+			"id": 76069339150,
+			"copic_code": "BG13",
+			"name": "Mint Green"
+		},
+		{
+			"code_color": "#9fd3c8",
+			"id": 76069371918,
+			"copic_code": "BG15",
+			"name": "Aqua"
+		},
+		{
+			"code_color": "#41b6a3",
+			"id": 76069437454,
+			"copic_code": "BG18",
+			"name": "Teal Blue"
+		},
+		{
+			"code_color": "#bcdfd3",
+			"id": 76502040590,
+			"copic_code": "BG23",
+			"name": "Coral Sea"
+		},
+		{
+			"code_color": "#badece",
+			"id": 76502237198,
+			"copic_code": "BG32",
+			"name": "Aqua Mint"
+		},
+		{
+			"code_color": "#a1d5cc",
+			"id": 76502532110,
+			"copic_code": "BG34",
+			"name": "Horizon Green"
+		},
+		{
+			"code_color": "#addad4",
+			"id": 76502695950,
+			"copic_code": "BG45",
+			"name": "Nile Blue"
+		},
+		{
+			"code_color": "#00ada8",
+			"id": 76502958094,
+			"copic_code": "BG49",
+			"name": "Duck Blue"
+		},
+		{
+			"code_color": "#adced0",
+			"id": 76503220238,
+			"copic_code": "BG53",
+			"name": "Ice Mint"
+		},
+		{
+			"code_color": "#66bdbd",
+			"id": 78437744654,
+			"copic_code": "BG57",
+			"name": "Jasper"
+		},
+		{
+			"code_color": "#dbe9ea",
+			"id": 78437941262,
+			"copic_code": "BG70",
+			"name": "Ocean Mist"
+		},
+		{
+			"code_color": "#72b0ae",
+			"id": 78438039566,
+			"copic_code": "BG72",
+			"name": "Ice Ocean"
+		},
+		{
+			"code_color": "#558883",
+			"id": 78438105102,
+			"copic_code": "BG75",
+			"name": "Abyss Green"
+		},
+		{
+			"code_color": "#466760",
+			"id": 76503810062,
+			"copic_code": "BG78",
+			"name": "Bronze"
+		},
+		{
+			"code_color": "#e4e8e2",
+			"id": 76503941134,
+			"copic_code": "BG90",
+			"name": "Gray Sky"
+		},
+		{
+			"code_color": "#b6bcb0",
+			"id": 76504137742,
+			"copic_code": "BG93",
+			"name": "Green Gray"
+		},
+		{
+			"code_color": "#7c9a89",
+			"id": 76504367118,
+			"copic_code": "BG96",
+			"name": "Bush"
+		},
+		{
+			"code_color": "#699380",
+			"id": 76504629262,
+			"copic_code": "BG99",
+			"name": "Flagstone Blue"
+		},
+		{
+			"code_color": "#f1f9fb",
+			"id": 76056330254,
+			"copic_code": "B0000",
+			"name": "Pale Celestine"
+		},
+		{
+			"code_color": "#e5f3f0",
+			"id": 76056297486,
+			"copic_code": "B000",
+			"name": "Pale Porcelain Blue"
+		},
+		{
+			"code_color": "#e2f3f3",
+			"id": 76056231950,
+			"copic_code": "B00",
+			"name": "Frost Blue"
+		},
+		{
+			"code_color": "#d4ecea",
+			"id": 76056363022,
+			"copic_code": "B01",
+			"name": "Mint Blue"
+		},
+		{
+			"code_color": "#b1dee2",
+			"id": 76056395790,
+			"copic_code": "B02",
+			"name": "Robin's Egg Blue"
+		},
+		{
+			"code_color": "#73c8d4",
+			"id": 76056428558,
+			"copic_code": "B04",
+			"name": "Tahitian Blue"
+		},
+		{
+			"code_color": "#47bed2",
+			"id": 76056461326,
+			"copic_code": "B05",
+			"name": "Process Blue"
+		},
+		{
+			"code_color": "#00a9ce",
+			"id": 76056494094,
+			"copic_code": "B06",
+			"name": "Peacock Blue"
+		},
+		{
+			"code_color": "#c7e2e5",
+			"id": 76056526862,
+			"copic_code": "B12",
+			"name": "Ice Blue"
+		},
+		{
+			"code_color": "#71c8da",
+			"id": 76056559630,
+			"copic_code": "B14",
+			"name": "Light Blue"
+		},
+		{
+			"code_color": "#00b4d4",
+			"id": 76056592398,
+			"copic_code": "B16",
+			"name": "Cyanine Blue"
+		},
+		{
+			"code_color": "#2181b1",
+			"id": 76056625166,
+			"copic_code": "B18",
+			"name": "Lapis Lazuli"
+		},
+		{
+			"code_color": "#dbecf2",
+			"id": 76056657934,
+			"copic_code": "B21",
+			"name": "Baby Blue"
+		},
+		{
+			"code_color": "#8fbbd6",
+			"id": 88833851406,
+			"copic_code": "B23",
+			"name": "Phthalo Blue"
+		},
+		{
+			"code_color": "#88c9e0",
+			"id": 76056690702,
+			"copic_code": "B24",
+			"name": "Sky"
+		},
+		{
+			"code_color": "#65abcd",
+			"id": 76056756238,
+			"copic_code": "B26",
+			"name": "Cobalt Blue"
+		},
+		{
+			"code_color": "#27639a",
+			"id": 76056789006,
+			"copic_code": "B28",
+			"name": "Royal Blue"
+		},
+		{
+			"code_color": "#006ea4",
+			"id": 76056821774,
+			"copic_code": "B29",
+			"name": "Ultramarine"
+		},
+		{
+			"code_color": "#e2eef0",
+			"id": 76056854542,
+			"copic_code": "B32",
+			"name": "Pale Blue"
+		},
+		{
+			"code_color": "#7ebdd8",
+			"id": 76056887310,
+			"copic_code": "B34",
+			"name": "Manganese Blue"
+		},
+		{
+			"code_color": "#1c668c",
+			"id": 76056952846,
+			"copic_code": "B37",
+			"name": "Antwerp Blue"
+		},
+		{
+			"code_color": "#305c90",
+			"id": 76056985614,
+			"copic_code": "B39",
+			"name": "Prussian Blue"
+		},
+		{
+			"code_color": "#e1eef4",
+			"id": 76057018382,
+			"copic_code": "B41",
+			"name": "Powder Blue"
+		},
+		{
+			"code_color": "#72b9d6",
+			"id": 76057051150,
+			"copic_code": "B45",
+			"name": "Smoky Blue"
+		},
+		{
+			"code_color": "#adc8cf",
+			"id": 76057083918,
+			"copic_code": "B52",
+			"name": "Soft Greenish Blue"
+		},
+		{
+			"code_color": "#d6dde7",
+			"id": 76057116686,
+			"copic_code": "B60",
+			"name": "Pale Blue Gray"
+		},
+		{
+			"code_color": "#a3b4ce",
+			"id": 76057149454,
+			"copic_code": "B63",
+			"name": "Light Hydrangea"
+		},
+		{
+			"code_color": "#6380ad",
+			"id": 76057182222,
+			"copic_code": "B66",
+			"name": "Clematis"
+		},
+		{
+			"code_color": "#255c93",
+			"id": 76057214990,
+			"copic_code": "B69",
+			"name": "Stratospheric Blue"
+		},
+		{
+			"code_color": "#364180",
+			"id": 76057247758,
+			"copic_code": "B79",
+			"name": "Iris"
+		},
+		{
+			"code_color": "#d3dfe2",
+			"id": 76057280526,
+			"copic_code": "B91",
+			"name": "Pale Grayish Blue"
+		},
+		{
+			"code_color": "#93bbcb",
+			"id": 76057313294,
+			"copic_code": "B93",
+			"name": "Light Crockery Blue"
+		},
+		{
+			"code_color": "#729fb3",
+			"id": 76057346062,
+			"copic_code": "B95",
+			"name": "Light Grayish Cobalt"
+		},
+		{
+			"code_color": "#457087",
+			"id": 76057378830,
+			"copic_code": "B97",
+			"name": "Night Blue"
+		},
+		{
+			"code_color": "#1c4a67",
+			"id": 76057411598,
+			"copic_code": "B99",
+			"name": "Agate"
+		},
+		{
+			"code_color": "#fff9f2",
+			"id": 76508463118,
+			"copic_code": "E0000",
+			"name": "Floral White"
+		},
+		{
+			"code_color": "#fff3ea",
+			"id": 76508364814,
+			"copic_code": "E000",
+			"name": "Pale Fruit Pink"
+		},
+		{
+			"code_color": "#fff1e7",
+			"id": 76508233742,
+			"copic_code": "E00",
+			"name": "Cotton Pearl"
+		},
+		{
+			"code_color": "#feecdf",
+			"id": 76508528654,
+			"copic_code": "E01",
+			"name": "Pink Flamingo"
+		},
+		{
+			"code_color": "#fee9db",
+			"id": 76508692494,
+			"copic_code": "E02",
+			"name": "Fruit Pink"
+		},
+		{
+			"code_color": "#deb8ba",
+			"id": 76508921870,
+			"copic_code": "E04",
+			"name": "Lipstick Natural"
+		},
+		{
+			"code_color": "#c07968",
+			"id": 76509216782,
+			"copic_code": "E07",
+			"name": "Light Mahogany"
+		},
+		{
+			"code_color": "#bb5e52",
+			"id": 76509347854,
+			"copic_code": "E08",
+			"name": "Brown"
+		},
+		{
+			"code_color": "#ca6353",
+			"id": 76509511694,
+			"copic_code": "E09",
+			"name": "Burnt Sienna"
+		},
+		{
+			"code_color": "#fde6d2",
+			"id": 76509642766,
+			"copic_code": "E11",
+			"name": "Barley Beige"
+		},
+		{
+			"code_color": "#e3c1ac",
+			"id": 76509839374,
+			"copic_code": "E13",
+			"name": "Light Suntan"
+		},
+		{
+			"code_color": "#f4b58e",
+			"id": 76510134286,
+			"copic_code": "E15",
+			"name": "Dark Suntan"
+		},
+		{
+			"code_color": "#a75953",
+			"id": 76510232590,
+			"copic_code": "E17",
+			"name": "Reddish Brass"
+		},
+		{
+			"code_color": "#7a4c48",
+			"id": 76510429198,
+			"copic_code": "E18",
+			"name": "Copper"
+		},
+		{
+			"code_color": "#b24c3f",
+			"id": 76510593038,
+			"copic_code": "E19",
+			"name": "Redwood"
+		},
+		{
+			"code_color": "#fbdec5",
+			"id": 76510789646,
+			"copic_code": "E21",
+			"name": "Soft Sun"
+		},
+		{
+			"code_color": "#eac8b0",
+			"id": 76510920718,
+			"copic_code": "E23",
+			"name": "Hazelnut"
+		},
+		{
+			"code_color": "#ca9e82",
+			"id": 91556544526,
+			"copic_code": "E25",
+			"name": "Caribe Cocoa"
+		},
+		{
+			"code_color": "#8e6e5f",
+			"id": 76511019022,
+			"copic_code": "E27",
+			"name": "Milk Chocolate"
+		},
+		{
+			"code_color": "#764038",
+			"id": 76511182862,
+			"copic_code": "E29",
+			"name": "Burnt Umber"
+		},
+		{
+			"code_color": "#F7EFD8",
+			"id": 76511281166,
+			"copic_code": "E30",
+			"name": "Bisque"
+		},
+		{
+			"code_color": "#f2e3cc",
+			"id": 76511412238,
+			"copic_code": "E31",
+			"name": "Brick Beige"
+		},
+		{
+			"code_color": "#eecdaf",
+			"id": 76511576078,
+			"copic_code": "E33",
+			"name": "Sand"
+		},
+		{
+			"code_color": "#ebc7a6",
+			"id": 76511674382,
+			"copic_code": "E34",
+			"name": "Toast"
+		},
+		{
+			"code_color": "#e1c0a3",
+			"id": 76511772686,
+			"copic_code": "E35",
+			"name": "Chamois"
+		},
+		{
+			"code_color": "#c08a5f",
+			"id": 76511969294,
+			"copic_code": "E37",
+			"name": "Sepia"
+		},
+		{
+			"code_color": "#b76b48",
+			"id": 76512067598,
+			"copic_code": "E39",
+			"name": "Leather"
+		},
+		{
+			"code_color": "#f4e8db",
+			"id": 76512198670,
+			"copic_code": "E40",
+			"name": "Brick White"
+		},
+		{
+			"code_color": "#ffeede",
+			"id": 76512296974,
+			"copic_code": "E41",
+			"name": "Pearl White"
+		},
+		{
+			"code_color": "#f3e8d6",
+			"id": 80043474958,
+			"copic_code": "E42",
+			"name": "Sand White"
+		},
+		{
+			"code_color": "#e8dabe",
+			"id": 76512493582,
+			"copic_code": "E43",
+			"name": "Dull Ivory"
+		},
+		{
+			"code_color": "#c1b5a4",
+			"id": 76512591886,
+			"copic_code": "E44",
+			"name": "Clay"
+		},
+		{
+			"code_color": "#7c6655",
+			"id": 76512722958,
+			"copic_code": "E47",
+			"name": "Dark Brown"
+		},
+		{
+			"code_color": "#574539",
+			"id": 76512886798,
+			"copic_code": "E49",
+			"name": "Dark Bark"
+		},
+		{
+			"code_color": "#f2e9ea",
+			"id": 76512985102,
+			"copic_code": "E50",
+			"name": "Egg Shell"
+		},
+		{
+			"code_color": "#fee8d2",
+			"id": 76513083406,
+			"copic_code": "E51",
+			"name": "Milky White"
+		},
+		{
+			"code_color": "#f3e4c3",
+			"id": 76513214478,
+			"copic_code": "E53",
+			"name": "Raw Silk"
+		},
+		{
+			"code_color": "#efdbb9",
+			"id": 76513312782,
+			"copic_code": "E55",
+			"name": "Light Camel"
+		},
+		{
+			"code_color": "#a67e5b",
+			"id": 76513378318,
+			"copic_code": "E57",
+			"name": "Light Walnut"
+		},
+		{
+			"code_color": "#907867",
+			"id": 76513476622,
+			"copic_code": "E59",
+			"name": "Walnut"
+		},
+		{
+			"code_color": "#3b2924",
+			"id": 76513869838,
+			"copic_code": "E79",
+			"name": "Cashew"
+		},
+		{
+			"code_color": "#f0e7e2",
+			"id": 76513542158,
+			"copic_code": "E70",
+			"name": "Ash Rose"
+		},
+		{
+			"code_color": "#dfd3ca",
+			"id": 76513607694,
+			"copic_code": "E71",
+			"name": "Champagne"
+		},
+		{
+			"code_color": "#977e74",
+			"id": 76513673230,
+			"copic_code": "E74",
+			"name": "Cocoa Brown"
+		},
+		{
+			"code_color": "#72584a",
+			"id": 76513771534,
+			"copic_code": "E77",
+			"name": "Maroon"
+		},
+		{
+			"code_color": "#eee4c0",
+			"id": 76513935374,
+			"copic_code": "E81",
+			"name": "Ivory"
+		},
+		{
+			"code_color": "#ab9d7f",
+			"id": 76514000910,
+			"copic_code": "E84",
+			"name": "Khaki"
+		},
+		{
+			"code_color": "#5a5127",
+			"id": 76514033678,
+			"copic_code": "E87",
+			"name": "Fig"
+		},
+		{
+			"code_color": "#594937",
+			"id": 76514099214,
+			"copic_code": "E89-Pecan",
+			"name": "E89-Pecan"
+		},
+		{
+			"code_color": "#f7cdb6",
+			"id": 76514230286,
+			"copic_code": "E93",
+			"name": "Tea Rose"
+		},
+		{
+			"code_color": "#f4b684",
+			"id": 76514328590,
+			"copic_code": "E95",
+			"name": "Tea Orange"
+		},
+		{
+			"code_color": "#a4593c",
+			"id": 76514426894,
+			"copic_code": "E99",
+			"name": "Baked Clay"
+		},
+		{
+			"code_color": "#e29366",
+			"id": 76514361358,
+			"copic_code": "E97",
+			"name": "Deep Orange"
+		},
+		{
+			"code_color": "#e9eeef",
+			"id": 76507381774,
+			"copic_code": "C00",
+			"name": "Cool Gray"
+		},
+		{
+			"code_color": "#e5ebec",
+			"id": 76507316238,
+			"copic_code": "C0",
+			"name": "Cool Gray"
+		},
+		{
+			"code_color": "#d9e0e1",
+			"id": 76507512846,
+			"copic_code": "C1",
+			"name": "Cool Gray"
+		},
+		{
+			"code_color": "#c8d3d4",
+			"id": 111478702094,
+			"copic_code": "C2",
+			"name": "Cool Gray"
+		},
+		{
+			"code_color": "#bbc5c8",
+			"id": 76507643918,
+			"copic_code": "C3",
+			"name": "Cool Gray"
+		},
+		{
+			"code_color": "#9fadb0",
+			"id": 76507774990,
+			"copic_code": "C4",
+			"name": "Cool Gray"
+		},
+		{
+			"code_color": "#89969a",
+			"id": 76507873294,
+			"copic_code": "C5",
+			"name": "Cool Gray"
+		},
+		{
+			"code_color": "#728186",
+			"id": 76507971598,
+			"copic_code": "C6",
+			"name": "Cool Gray"
+		},
+		{
+			"code_color": "#596669",
+			"id": 76508102670,
+			"copic_code": "C7",
+			"name": "Cool Gray"
+		},
+		{
+			"code_color": "#485356",
+			"id": 88834768910,
+			"copic_code": "C8",
+			"name": "Cool Gray"
+		},
+		{
+			"code_color": "#323b3e",
+			"id": 88834801678,
+			"copic_code": "C9",
+			"name": "Cool Gray"
+		},
+		{
+			"code_color": "#1d2123",
+			"id": 76507578382,
+			"copic_code": "C10",
+			"name": "Cool Gray"
+		},
+		{
+			"code_color": "#e9e9e8",
+			"id": 91556675598,
+			"copic_code": "T0",
+			"name": "Toner Gray"
+		},
+		{
+			"code_color": "#e7e7e4",
+			"id": 78901673998,
+			"copic_code": "T1",
+			"name": "Toner Gray"
+		},
+		{
+			"code_color": "#dcdcd8",
+			"id": 78901739534,
+			"copic_code": "T2",
+			"name": "Toner Gray"
+		},
+		{
+			"code_color": "#ccccc6",
+			"id": 78901772302,
+			"copic_code": "T3",
+			"name": "Toner Gray"
+		},
+		{
+			"code_color": "#b4b4af",
+			"id": 78901805070,
+			"copic_code": "T4",
+			"name": "Toner Gray"
+		},
+		{
+			"code_color": "#9e9e98",
+			"id": 78901870606,
+			"copic_code": "T5",
+			"name": "Toner Gray"
+		},
+		{
+			"code_color": "#898984",
+			"id": 78901903374,
+			"copic_code": "T6",
+			"name": "Toner Gray"
+		},
+		{
+			"code_color": "#6c6c69",
+			"id": 78901936142,
+			"copic_code": "T7",
+			"name": "Toner Gray"
+		},
+		{
+			"code_color": "#585955",
+			"id": 78902001678,
+			"copic_code": "T8",
+			"name": "Toner Gray"
+		},
+		{
+			"code_color": "#40413e",
+			"id": 78902034446,
+			"copic_code": "T9",
+			"name": "Toner Gray"
+		},
+		{
+			"code_color": "#262725",
+			"id": 78901706766,
+			"copic_code": "T10",
+			"name": "Toner Gray"
+		},
+		{
+			"code_color": "#e9e9e8",
+			"id": 78444363790,
+			"copic_code": "N0",
+			"name": "Neutral Gray"
+		},
+		{
+			"code_color": "#dedfde",
+			"id": 78444429326,
+			"copic_code": "N1",
+			"name": "Neutral Gray"
+		},
+		{
+			"code_color": "#d4d5d4",
+			"id": 78444560398,
+			"copic_code": "N2",
+			"name": "Neutral Gray"
+		},
+		{
+			"code_color": "#cbcccb",
+			"id": 78444625934,
+			"copic_code": "N3",
+			"name": "Neutral Gray"
+		},
+		{
+			"code_color": "#b4b5b4",
+			"id": 78444658702,
+			"copic_code": "N4",
+			"name": "Neutral Gray"
+		},
+		{
+			"code_color": "#9e9f9e",
+			"id": 78444691470,
+			"copic_code": "N5",
+			"name": "Neutral Gray"
+		},
+		{
+			"code_color": "#8a8b8a",
+			"id": 78444757006,
+			"copic_code": "N6",
+			"name": "Neutral Gray"
+		},
+		{
+			"code_color": "#6d6e6d",
+			"id": 78444789774,
+			"copic_code": "N7",
+			"name": "Neutral Gray"
+		},
+		{
+			"code_color": "#595a59",
+			"id": 78444920846,
+			"copic_code": "N8",
+			"name": "Neutral Gray"
+		},
+		{
+			"code_color": "#414241",
+			"id": 78444953614,
+			"copic_code": "N9",
+			"name": "Neutral Gray"
+		},
+		{
+			"code_color": "#272726",
+			"id": 78444494862,
+			"copic_code": "N10",
+			"name": "Neutral Gray"
+		},
+		{
+			"code_color": "#f4f1ea",
+			"id": 88827527182,
+			"copic_code": "W00",
+			"name": "Warm Gray"
+		},
+		{
+			"code_color": "#f4f1e9",
+			"id": 88827428878,
+			"copic_code": "W0",
+			"name": "Warm Gray"
+		},
+		{
+			"code_color": "#e6e4dc",
+			"id": 88827592718,
+			"copic_code": "W1",
+			"name": "Warm Gray"
+		},
+		{
+			"code_color": "#e5e4de",
+			"id": 88827691022,
+			"copic_code": "W2",
+			"name": "Warm Gray"
+		},
+		{
+			"code_color": "#ccccc4",
+			"id": 88827756558,
+			"copic_code": "W3",
+			"name": "Warm Gray"
+		},
+		{
+			"code_color": "#b5b5ad",
+			"id": 88827789326,
+			"copic_code": "W4",
+			"name": "Warm Gray"
+		},
+		{
+			"code_color": "#9f9f98",
+			"id": 88827854862,
+			"copic_code": "W5",
+			"name": "Warm Gray"
+		},
+		{
+			"code_color": "#8a8a83",
+			"id": 88827920398,
+			"copic_code": "W6",
+			"name": "Warm Gray"
+		},
+		{
+			"code_color": "#6c6d68",
+			"id": 88827985934,
+			"copic_code": "W7",
+			"name": "Warm Gray"
+		},
+		{
+			"code_color": "#595955",
+			"id": 88828084238,
+			"copic_code": "W8",
+			"name": "Warm Gray"
+		},
+		{
+			"code_color": "#41423e",
+			"id": 88828182542,
+			"copic_code": "W9",
+			"name": "Warm Gray"
+		},
+		{
+			"code_color": "#252725",
+			"id": 88827625486,
+			"copic_code": "W10",
+			"name": "Warm Gray"
+		},
+		{
+			"code_color": "#fffffe",
+			"id": 76056133646,
+			"copic_code": "0",
+			"name": "Colorless Blender"
+		},
+		{
+			"code_color": "#252524",
+			"id": 76056166414,
+			"copic_code": "100",
+			"name": "Black"
+		},
+		{
+			"code_color": "#1a1919",
+			"id": 76056199182,
+			"copic_code": "110",
+			"name": "Special Black"
+		},
+		{
+			"code_color": "#eb9db9",
+			"id": 76514590734,
+			"copic_code": "FRV1",
+			"name": "Fluorescent Pink"
+		},
+		{
+			"code_color": "#f7c89c",
+			"id": 76514918414,
+			"copic_code": "FYR1",
+			"name": "Fluorescent Orange"
+		},
+		{
+			"code_color": "#fff5a4",
+			"id": 76514689038,
+			"copic_code": "FY1",
+			"name": "Fluorescent Yellow Orange"
+		},
+		{
+			"code_color": "#ccdaa4",
+			"id": 76514754574,
+			"copic_code": "FYG1",
+			"name": "Fluorescent Yellow Green"
+		},
+		{
+			"code_color": "#786d9e",
+			"id": 76514656270,
+			"copic_code": "FV2",
+			"name": "Fluorescent Dull Violet"
+		},
+		{
+			"code_color": "#95c45d",
+			"id": 76514885646,
+			"copic_code": "FYG2",
+			"name": "Fluorescent Dull Yellow Green"
+		},
+		{
+			"code_color": "#65c5d5",
+			"id": 76514525198,
+			"copic_code": "FBG2",
+			"name": "Fluorescent Dull Blue Green"
+
+		},
+		{
+			"code_color": "#0085b6",
+			"id": 76514492430,
+			"copic_code": "FB2",
+			"name": "Fluorescent Dull Blue"
+		}
+	]
+}
